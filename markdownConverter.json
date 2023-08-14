@@ -1,0 +1,17 @@
+{"content" : [
+		"jsCommonTools",
+		"jsCore",
+		"jsKeyboardEvents",
+		"jsLexicalTools",
+		"jsStyleManager",
+		"jsUIFramework",
+		"jsMarkdownConverter/jsmarkdownConverterStarter",
+		"_Bundles/markdownConverter"
+	],
+	"UIpackage" : "all",
+	"localDeployRoot" : "test_servers/_markdown_converter/_enhanced/",
+	"ressourcePath" : [
+	
+	],
+	"liveReloadspecificPort" : 357730
+}

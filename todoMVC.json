@@ -1,0 +1,15 @@
+{"content" : [
+		"jsCore",
+		"jsCommonTools",
+		"jsKeyboardEvents",
+		"jsStyleManager",
+		"jsUIFramework",
+		"jsStarters/jstodoMVCStarter",
+		"_Bundles/todoMVC"
+	],
+	"UIpackage" : "minimal",
+	"localDeployRoot" : "test_servers/_media_play_01/_enhanced/",
+	"ressourcePath" : [
+	
+	]
+}

@@ -1,0 +1,17 @@
+{"content" : [
+		"jsCommonTools",
+		"jsCore",
+		"jsKeyboardEvents",
+		"jsLexicalTools",
+		"jsStyleManager",
+		"jsUIFramework",
+		"jsDevToolsStruct/jsIsolatedComponentDefStarter",
+		"_Bundles/IsolatedComponentDef"
+	],
+	"UIpackage" : "all",
+	"localDeployRoot" : "test_servers/_media_play_01/_enhanced/",
+	"ressourcePath" : [
+	
+	],
+	"liveReloadspecificPort" : 357730
+}

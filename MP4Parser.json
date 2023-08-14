@@ -1,0 +1,19 @@
+{"content" : [
+		"jsCore",
+		"jsCommonTools",
+		"jsLexicalTools",
+		"jsKeyboardEvents",
+		"jsStyleManager",
+		"jsValueObjects",
+		"jsDropZone",
+		"jsTimers",
+		"jsUIFramework",
+		"jsStarters/jsMP4parserStarter",
+		"_Bundles/MP4parser"
+	],
+	"UIpackage" : "std",
+	"localDeployRoot" : "test_servers/_media_play_01/_enhanced/",
+	"ressourcePath" : [
+	
+	]
+}
